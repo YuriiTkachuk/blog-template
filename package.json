@@ -1,0 +1,10 @@
+{
+  "name": "blog",
+  "version": "1.0.0",
+  "description": "template",
+  "main": "index.js",
+  "author": "ytkachuk",
+  "dependencies": {
+    "bootstrap": "^4.0.0-beta"
+  }
+}
